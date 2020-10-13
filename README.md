@@ -11,7 +11,7 @@ My name is Angelo Zambrano, I am *Frontend Developer*. I love learning about eve
 -   [NodeJS](https://nodejs.org/en/)
 -   Git and GitHub
 
-Twitter: [@angelozdev](www.twitter.com/angelozdev)
+Twitter: [@angelozdev](https://www.twitter.com/angelozdev)
 
 
 ![angelozdev's github stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
