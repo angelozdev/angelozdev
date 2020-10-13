@@ -14,7 +14,6 @@ My name is Angelo Zambrano, I am *Frontend Developer*. I love learning about eve
 Twitter: [@angelozdev](https://www.twitter.com/angelozdev)
 
 
-<div>
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true" alt="Angelo Zambrano's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muvick-platzimaster&repo=frontend" width="50%" alt="Repo Muvick-Frontend" />
-</div>
+![Angelo Zambrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
+
+[![Muvick's Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=muvick-platzimaster&repo=frontend&show_owner=true)](https://github.com/muvick-platzimaster/frontend)
