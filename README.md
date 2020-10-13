@@ -2,9 +2,14 @@
 
 My name is Angelo Zambrano, I am *Frontend Developer*. I love learning about everything related to programming both *frontend* and *backend* technologies. I am part of the *Platzi Master* program where the top Platzi students are.
 
-My main specialties are:
+Skills:
 -   [TypeScript](https://www.typescriptlang.org/) - JavaScript
 -   [React](https://reactjs.org/)
+-   HTML
+-   CSS - [SASS](https://sass-lang.com/) - [Stylus](https://stylus-lang.com/)
+-   [MongoDB](https://www.mongodb.com/)
+-   [NodeJS](https://nodejs.org/en/)
+-   Git and GitHub
 
 Twitter: [@angelozdev](www.twitter.com/angelozdev)
 
