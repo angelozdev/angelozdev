@@ -15,5 +15,4 @@ Twitter: [@angelozdev](https://www.twitter.com/angelozdev)
 
 
 ![Angelo Zambrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
-
 [![Muvick's Repositorie](https://github-readme-stats.vercel.app/api/pin/?username=muvick-platzimaster&repo=frontend&show_owner=true)](https://github.com/muvick-platzimaster/frontend)
