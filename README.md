@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Angelo Zambrano, I am *Frontend Developer*. I love learning about everything related to programming both *frontend* and *backend* technologies. I am part of the *Platzi Master* program where the top Platzi students are.
+I'm Angelo Zambrano. I'm a front-end developer. I love learning about everything related to programming both front-end and back-end technologies. I'm part of the Platzi Master program where the top Platzi students are.
 
 ### Skills:
 -   [TypeScript](https://www.typescriptlang.org/) - JavaScript
