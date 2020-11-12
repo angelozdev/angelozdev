@@ -12,9 +12,7 @@ I'm Angelo Zambrano. I'm a front-end developer. I love learning about everything
 -   Git and GitHub
 
 [Twitter](https://www.twitter.com/angelozdev)
-
 [Portfolio](https://portfolio.angelozdev.vercel.app/)
-
 [LinkedIn](https://www.linkedin.com/in/angelozdev/)
 
 
