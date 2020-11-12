@@ -11,9 +11,11 @@ I'm Angelo Zambrano. I'm a front-end developer. I love learning about everything
 -   [NodeJS](https://nodejs.org/en/)
 -   Git and GitHub
 
-Twitter: [@angelozdev](https://www.twitter.com/angelozdev)
+[Twitter](https://www.twitter.com/angelozdev)
 
-Portfolio: [beta](https://portfolio.angelozdev.vercel.app/)
+[Portfolio](https://portfolio.angelozdev.vercel.app/)
+
+[LinkedIn](https://www.linkedin.com/in/angelozdev/)
 
 
 ![Angelo Zambrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
