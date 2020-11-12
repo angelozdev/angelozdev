@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Angelo Zambrano. I'm a front-end developer. I love learning about everything related to programming both front-end and back-end technologies. I'm part of the Platzi Master program where the top Platzi students are.
+I'm Angelo Zambrano. I'm front-end developer with strong knowledge of HTML, CSS, and JavaScript. Specialized in technologies such as Reactjs and TypeScript. Experience in web technologies such as Rest API, ES6, Babel, Webpack, npm, Redux, etc. Familiar with backend development with Expressjs. Preparation for Fullstack JavaScript Development.
 
 ### Skills:
 -   [TypeScript](https://www.typescriptlang.org/) - JavaScript
