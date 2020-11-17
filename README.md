@@ -16,4 +16,6 @@ I'm Angelo Zambrano. I'm front-end developer with strong knowledge of HTML, CSS,
 [LinkedIn](https://www.linkedin.com/in/angelozdev/)
 
 
+🚩 Member of [Cutting Edge Coders](https://github.com/CuttingEdgeCoders)
+
 ![Angelo Zambrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
