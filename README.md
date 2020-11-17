@@ -11,10 +11,9 @@ I'm Angelo Zambrano. I'm front-end developer with strong knowledge of HTML, CSS,
 -   [NodeJS](https://nodejs.org/en/)
 -   Git and GitHub
 
-[Twitter](https://www.twitter.com/angelozdev) - 
-[Portfolio](https://portfolio.angelozdev.vercel.app/) - 
-[LinkedIn](https://www.linkedin.com/in/angelozdev/)
-
+✨ [Twitter](https://www.twitter.com/angelozdev) - 
+💼 [Portfolio](https://portfolio.angelozdev.vercel.app/) - 
+👔 [LinkedIn](https://www.linkedin.com/in/angelozdev/)
 
 🚩 Member of [Cutting Edge Coders](https://github.com/CuttingEdgeCoders)
 
