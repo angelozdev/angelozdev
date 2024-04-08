@@ -1,20 +1,28 @@
-### Hi there 👋
+**ANGELO ZAMBRANO**
 
-I'm Angelo Zambrano. I'm front-end developer with strong knowledge of HTML, CSS, and JavaScript. Specialized in technologies such as Reactjs and TypeScript. Experience in web technologies such as Rest API, ES6, Babel, Webpack, npm, Redux, etc. Familiar with backend development with Expressjs. Preparation for Fullstack JavaScript Development.
+[angelozam17@gmail.com](mailto:angelozam17@gmail.com) | [https://www.linkedin.com/in/angelozdev/](https://www.linkedin.com/in/angelozdev/) | [https://github.com/angelozdev](https://github.com/angelozdev)
 
-### Skills:
--   [TypeScript](https://www.typescriptlang.org/) - JavaScript
--   [React](https://reactjs.org/)
--   HTML
--   CSS - [SASS](https://sass-lang.com/) - [Stylus](https://stylus-lang.com/)
--   [MongoDB](https://www.mongodb.com/)
--   [NodeJS](https://nodejs.org/en/)
--   Git and GitHub
+Bogotá, Colombia
 
-[✨ Twitter](https://www.twitter.com/angelozdev) - 
-[💼 Portfolio](https://portfolio.angelozdev.vercel.app/) - 
-[👔 LinkedIn](https://www.linkedin.com/in/angelozdev/)
+---
 
-🚩 Member of [Cutting Edge Coders](https://github.com/CuttingEdgeCoders)
+**SUMMARY**
+
+Software Engineer with 4+ years in web and mobile development, skilled in React.js, Redux, TypeScript, JavaScript, and IoT platform development. Experienced in creating design systems, open-source components, performance optimization, and scalable cloud solutions. Currently expanding skills in Rust for low-level systems and programming languages.
+
+---
+
+**SKILLS**
+
+- **Programming Languages**: JavaScript, Rust, Bash
+- **Web Technologies**: HTML, CSS, Sass, Tailwind, Bootstrap, Styled Components, PostCSS
+- **Frameworks and Libraries**: React.js, Node.js, TypeScript, Redux, Next.js, Vue, Express.js, React Native, GraphQL, Storybook
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis, Firebase, Supabase, Prisma, Sequelize, TypeORM, SQLite
+- **Cloud Computing**: AWS, Heroku, Vercel
+- **DevOps**: Docker, GitHub Actions
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Testing**: Jest, Cypress, Testing Library, Vitest, Mock Service Worker (MSW)
+
+
 
 ![Angelo Zambrano's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelozdev&show_icons=true)
