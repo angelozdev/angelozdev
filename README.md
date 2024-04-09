@@ -1,6 +1,6 @@
 **ANGELO ZAMBRANO**
 
-[angelozam17@gmail.com](mailto:angelozam17@gmail.com) | [https://www.linkedin.com/in/angelozdev/](https://www.linkedin.com/in/angelozdev/) | [https://github.com/angelozdev](https://github.com/angelozdev)
+[angelozam17@gmail.com](mailto:angelozam17@gmail.com) | [https://www.linkedin.com/in/angelozdev/](https://www.linkedin.com/in/angelozdev/)
 
 Bogotá, Colombia
 
